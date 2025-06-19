@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MermaidSharp", "MermaidSharp\MermaidSharp.csproj", "{58D4E088-91D1-4AB4-BA6E-6D7A495D34B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MermaidSharp.Tests", "tests\MermaidSharp.Tests\MermaidSharp.Tests.csproj", "{555701E3-BEE9-4210-84A1-2372E9A23A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D4E088-91D1-4AB4-BA6E-6D7A495D34B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D4E088-91D1-4AB4-BA6E-6D7A495D34B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D4E088-91D1-4AB4-BA6E-6D7A495D34B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D4E088-91D1-4AB4-BA6E-6D7A495D34B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555701E3-BEE9-4210-84A1-2372E9A23A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555701E3-BEE9-4210-84A1-2372E9A23A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555701E3-BEE9-4210-84A1-2372E9A23A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555701E3-BEE9-4210-84A1-2372E9A23A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

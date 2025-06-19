@@ -1,6 +1,10 @@
-﻿namespace MermaidSharp;
+﻿using MermaidSharp.Elements;
 
-public class CSharpFile
+namespace MermaidSharp;
+
+public class CSharpSourceFile
 {
     private string _path;
+
+    public List<ClassDefinition> ClassDefinitions { get; }
 }
